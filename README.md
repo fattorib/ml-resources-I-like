@@ -1,12 +1,11 @@
 # ml-resources-I-like
 Collection of machine learning resources (books,blogs,papers,code,etc) I have used and liked.
 
-
 ## Machine Learning 
-- [An Introduction to Statistical Learning - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani](https://statlearning.com/): The goat. 
+- [An Introduction to Statistical Learning - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani](https://statlearning.com/): The GOAT. 
 - [Probabilistic Machine Learning: An Introduction - Kevin Patrick Murphy](https://probml.github.io/pml-book/book1.html): Going through this book now. Goes a lot deeper into the math than ISLR or Neural Networks and Deep Learning. 
 - [Advances in Financial Machine Learning -  Marcos Lopez de Prado](https://www.amazon.ca/Advances-Financial-Machine-Learning-Marcos/dp/1119482089): While this book does not cover any financial algorithms directly, Lopez de Prado covers the general approach and ideas that are needed for firms to succeed in the realm of financial machine learning. This is a good book to have as a reference (what else to say here??)
-
+- [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning) is a good course for learning the basics of Scikit-learn as well as some common ML models aside from Neural Networks (Linear/Logistic Regression, Decision Trees,Random Forest, Gradient Boosted Trees, SVMs). Similar to the PyTorch course I linked below, I really liked working on their assigmnents and I felt that they gave me a good chance to practice my skills. 
 
 ## Deep Learning
 - [Neural Networks and Deep Learning - Michael Nielsen](http://neuralnetworksanddeeplearning.com/): Good introductory book and the first one I read. Nielson introduces   deep learning and the basic math behind it by implementing and succesively improving a neural network for classification of handwritten digits (MNIST). The book is a fairly quick read and covers all the important basics (emphasis on basics) for supervised deep learning. 
