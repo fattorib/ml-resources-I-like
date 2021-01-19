@@ -1,8 +1,6 @@
 # ml-resources-I-like
 Collection of machine learning resources (books,blogs,papers,code,etc) I have used and liked.
 
-## Data Science
--
 
 ## Machine Learning 
 - [An Introduction to Statistical Learning - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani](https://statlearning.com/): The goat. 
@@ -14,3 +12,5 @@ Collection of machine learning resources (books,blogs,papers,code,etc) I have us
 - [Neural Networks and Deep Learning - Michael Nielsen](http://neuralnetworksanddeeplearning.com/): Good introductory book and the first one I read. Nielson introduces   deep learning and the basic math behind it by implementing and succesively improving a neural network for classification of handwritten digits (MNIST). The book is a fairly quick read and covers all the important basics (emphasis on basics) for supervised deep learning. 
 
 - [MiniTorch](https://minitorch.github.io/) and [TinyGrad](https://github.com/geohot/tinygrad) are two projects that implement a (small) neural network library similar to PyTorch. MiniTorch is a skeleton project that you can code yourself. TinyGrad is a completed library under 1000 lines. It contains all basic operations as well as code that allows the networks to run on GPUs using OpenCL. If you want to see how neural network libraries work behind the scenes both of these are worth lookng at!
+
+- I really liked [this](https://www.udacity.com/course/deep-learning-pytorch--ud188) Udacity course on PyTorch. It provides a good introduction to PyTorch and the projects/homework are pretty interesting!
