@@ -1,5 +1,5 @@
 # ml-resources-I-like
-Collection of machine learning resources I have used and liked.
+Collection of machine learning resources (books,blogs,papers,code,etc) I have used and liked.
 
 ## Data Science
 -
