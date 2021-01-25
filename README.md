@@ -1,5 +1,5 @@
 # ml-resources-I-like
-Collection of machine learning resources (books,blogs,papers,code,etc) I have used and liked.
+Collection of machine learning resources (books, blogs, papers, code, etc) I have used and liked.
 
 ## Machine Learning 
 - [An Introduction to Statistical Learning - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani](https://statlearning.com/): The GOAT. 
