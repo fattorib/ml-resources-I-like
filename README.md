@@ -13,3 +13,5 @@ Collection of machine learning resources (books, blogs, papers, code, etc) I hav
 - [MiniTorch](https://minitorch.github.io/) and [TinyGrad](https://github.com/geohot/tinygrad) are two projects that implement a (small) neural network library similar to PyTorch. MiniTorch is a skeleton project that you can code yourself. TinyGrad is a completed library under 1000 lines. It contains all basic operations as well as code that allows the networks to run on GPUs using OpenCL. If you want to see how neural network libraries work behind the scenes both of these are worth lookng at!
 
 - I really liked [this](https://www.udacity.com/course/deep-learning-pytorch--ud188) Udacity course on PyTorch. It provides a good introduction to PyTorch and the projects/homework are pretty interesting!
+
+- I keep coming back to the [CSC421](http://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/) page for in-depth notes on neural networks. The Optimization and Automatic differentiation notes are excellent. I haven't spent a lot of time working on the homework assignments but they look very interesting. 
