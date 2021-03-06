@@ -1,4 +1,4 @@
-# ml-resources-I-like
+# Machine Learning and Data Science Resources I like
 Collection of machine learning resources (books, blogs, papers, code, etc) I have used and liked. I'm trying to update this as frequently as I can. 
 
 ## Machine Learning 
