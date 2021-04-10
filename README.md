@@ -17,6 +17,8 @@ Collection of machine learning resources (books, blogs, papers, code, etc) I hav
 - I keep coming back to the [CSC421](http://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/) page for in-depth notes on neural networks. The Optimization and Automatic differentiation notes are excellent. I haven't spent a lot of time working on the homework assignments but they look very interesting. 
 
 ## General Stuff
+- [Yannic Kilcher's](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew) YouTube channel has same great reviews and overviews of popular papers. 
+
 - Online articles from Medium or towardsdatascience can be pretty inconsistent. A lot of the articles are just people trying to write a few articles to pad their resumes. Usually not worth looking at. 
 
 
